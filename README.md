@@ -37,7 +37,6 @@ $ yarn start
 ```
 **Well done, project is started!**
 
-##  License
-
+<h2 id="license">License</h2>
 This is a [RocketSeat](https://rocketseat.com.br) Starter course project.
 
