@@ -18,8 +18,8 @@ This is module 08 of the GoStack RocketSeat course (old journey). It is a list o
 
 <h4>Requirements</h4>
 
-- [Git](https://classic.yarnpkg.com/) 
-- [Node.js](https://classic.yarnpkg.com/) 
+- [Git](https://git-scm.com) 
+- [Node.js](https://nodejs.org/en/) 
 - [Yarn](https://classic.yarnpkg.com/)
 
 **Clone the project and access the folder**
@@ -38,5 +38,6 @@ $ yarn start
 **Well done, project is started!**
 
 <h2 id="license">License</h2>
+
 This is a [RocketSeat](https://rocketseat.com.br) Starter course project.
 
