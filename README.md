@@ -1,4 +1,4 @@
-<h2>hooksIntro</h2>
+<h2>About</h2>
 
 This is module 08 of the GoStack RocketSeat course (old journey). It is a list of technology tasks, made with react hooks like useState, useEffect, useMemo and useCallback.
 
