@@ -24,7 +24,7 @@ This is module 08 of the GoStack RocketSeat course (old journey). It is a list o
 
 **Clone the project and access the folder**
 ```bash
-$ git clone https://github.com/marchetti2/hooksIntro.git && cd hooksIntro
+$ git clone https://github.com/marchetti2/hooks-exemple.git && cd hooks-exemple
 ```
 
 **Install the dependencies**
